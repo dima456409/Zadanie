@@ -6,7 +6,7 @@ namespace Zadanie
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello ворлд!");
+            Console.WriteLine("Hello World!");
         }
     }
 }
